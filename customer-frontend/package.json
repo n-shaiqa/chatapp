@@ -22,7 +22,7 @@
     "react-simple-star-rating": "^4.0.0",
     "react-slick": "^0.28.1",
     "react-to-print": "^2.14.7",
-    "sass": "1.26.3",
+    "sass": "1.83.0",
     "slick-carousel": "^1.8.1"
   }
 }
