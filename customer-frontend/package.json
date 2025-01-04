@@ -13,7 +13,7 @@
     "next": "^12.1.6",
     "rc-slider": "^9.7.4",
     "react": "^17.0.2",
-    "react-datepicker": "^4.7.0",
+    "react-datepicker": "^4.25.0",
     "react-dom": "^17.0.2",
     "react-dropdown": "^1.9.2",
     "react-phone-number-input": "^3.1.52",
